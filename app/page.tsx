@@ -6,6 +6,7 @@ import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 
 // 主页
+
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
